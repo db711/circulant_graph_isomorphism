@@ -1,7 +1,5 @@
-#    Written at the Julius Maximilian University of Würzburg
-#    as part of my bachelor thesis with the title
-#    "Das Isomorphieproblem für zirkuläre Graphen",
-#    written at the Institute of Mathematics in 2019.
+#    Written as part of my bachelor thesis 
+#    "Das Isomorphieproblem für zirkuläre Graphen" ("The isomorphism problem for circulant graphs").
 #    Based on the the paper 
 #	 "A solution of the isomorphism problem for circulant graphs"
 #	 by M. Muzychuk. See https://doi.org/10.1112/S0024611503014412
