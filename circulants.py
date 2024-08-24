@@ -1,5 +1,4 @@
-#    Written by Daniel Berger (daniel.berger@stud-mail.uni-wuerzburg.de)
-#    at the Julius Maximilian University of Würzburg
+#    Written at the Julius Maximilian University of Würzburg
 #    as part of my bachelor thesis with the title
 #    "Das Isomorphieproblem für zirkuläre Graphen",
 #    written at the Institute of Mathematics in 2019.
